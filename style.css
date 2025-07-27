@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(to right, #9b5de5, #f15bb5);
+}
+
+.container {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+.clock {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock div {
+  background: white;
+  color: black;
+  padding: 20px 30px;
+  font-size: 2em;
+  border-radius: 12px;
+  min-width: 80px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.clock span {
+  font-size: 2.5em;
+  font-weight: bold;
+}
