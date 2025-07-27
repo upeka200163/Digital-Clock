@@ -22,4 +22,4 @@ A clean and responsive digital clock built with *HTML, **CSS, and **JavaScript*.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   (https://github.com/upeka200163/Digital-Clock.git)
