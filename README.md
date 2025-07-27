@@ -6,7 +6,7 @@ A clean and responsive digital clock built with *HTML, **CSS, and **JavaScript*.
 
 ## 🖼 Preview
 
-🎥 [Watch Demo Video](C:\Users\IPK Computer\Videos\Captures\Digital Clock - Google Chrome 2025-07-27 07-47-44.mp4) <!-- Replace with your video link -->
+🎥 [Watch Demo Video]([C:\Users\IPK Computer\Videos\Captures\Digital Clock - Google Chrome 2025-07-27 07-47-44.mp4](https://drive.google.com/drive/folders/1H5cLVtaKOGeKHh_jEpxH3KdgWsNVXmEf?dmr=1&ec=wgc-drive-hero-goto)) <!-- Replace with your video link -->
 
 ---
 
