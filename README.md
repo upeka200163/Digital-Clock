@@ -16,7 +16,7 @@ Digital Clock is a clean, responsive, and lightweight web application built usin
 # ✨ Project Overview
 
 Digital Clock is designed to showcase the fundamentals of web development while providing a visually appealing and functional real-time clock interface.
-The application utilizes JavaScript's built-in Date object to retrieve and display the current system time dynamically in **HH : MM : SS** format.
+The application utilizes JavaScript's built-in Date object to retrieve and display the current system time dynamically in   **HH : MM : SS** format.
 
 ---
 
