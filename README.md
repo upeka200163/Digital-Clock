@@ -9,7 +9,7 @@ Digital Clock is a clean, responsive, and lightweight web application built usin
 # 🌍 Live Preview
 
 🔗 **Live Demo:**
-[Your Live Demo Link Here]
+https://upeka200163.github.io/Digital-Clock/
 
 ---
 
